@@ -47,4 +47,4 @@ stream(): Método que nos permite trabajar de manera declarativa con las colecci
 ## Reduce
 - Reduce los elementos de una coleccion a un solo elemento resultado de una función. 
 
-Los Ejemplos de estos métodos se encuentran el código fuente de este repositorio
+Los ejemplos se encuentran en el código fuente de este repositorio
